@@ -33,7 +33,7 @@ if len(sys.argv) <= 1:
     print '-g user-agent - default: "Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0"'
     print '-x use proxy | ex: 127.0.0.1:1234'
     print ''
-    print 'Examples: python WP-crack.py -h http://nekopoi.com/wp-login.php -u admin -W wordlist.txt'
+    print 'Examples: python WP-crack.py -h http://nekopoi.com/wp-login.php -u admin -P wordlist.txt'
     sys.exit()
 
 print 'WP-crack 1.0 (c)2018 By Sultan Nasution - a very fast logon WordPress Cracker'
