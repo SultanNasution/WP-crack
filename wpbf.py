@@ -16,7 +16,14 @@ def loadLst(fileName, lstName):
     f.close()
 
 if len(sys.argv) <= 1:
-    print 'WP-crack v1.0 2018 By Sultan Nasution'
+    
+    print ' __      ____________          ___________________    _____  _________  ____  __. '
+    print '/  \    /  \______   \         \_   ___ \______   \  /  _  \ \_   ___ \|    |/ _| '
+    print '\   \/\/   /|     ___/  ______ /    \  \/|       _/ /  /_\  \/    \  \/|      <   '
+    print ' \        / |    |     /_____/ \     \___|    |   \/    |    \     \___|    |  \  '
+    print '  \__/\  /  |____|              \______  /____|_  /\____|__  /\______  /____|__ \ '
+    print '       \/                              \/       \/         \/        \/        \/ '
+    print 'WP-crack v1.0 2018 Recoded By Sultan Nasution'
     print 'Website: https://www.tasik9etar.me'
     print 'Mail   : sultanpierr0t.1337@gmail.com'
     print ''
@@ -36,7 +43,14 @@ if len(sys.argv) <= 1:
     print 'Examples: python2 wpbf.py -h http://nekopoi.com/wp-login.php -u admin -P wordlist.txt'
     sys.exit()
 
-print 'WP-crack 1.0 (c)2018 By Sultan Nasution'
+print ' __      ____________          ___________________    _____  _________  ____  __. '
+print '/  \    /  \______   \         \_   ___ \______   \  /  _  \ \_   ___ \|    |/ _| '
+print '\   \/\/   /|     ___/  ______ /    \  \/|       _/ /  /_\  \/    \  \/|      <   '
+print ' \        / |    |     /_____/ \     \___|    |   \/    |    \     \___|    |  \  ' 
+print '  \__/\  /  |____|              \______  /____|_  /\____|__  /\______  /____|__ \ '
+print '       \/                              \/       \/         \/        \/        \/ '
+print '
+print 'WP-crack v1.0 2018 Recoded By Sultan Nasution'
 print 'Website: https://www.tasik9etar.me'
 print 'Mail   : sultanpierr0t.1337@gmail.com'
 
