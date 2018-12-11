@@ -49,7 +49,7 @@ print '\   \/\/   /|     ___/  ______ /    \  \/|       _/ /  /_\  \/    \  \/| 
 print ' \        / |    |     /_____/ \     \___|    |   \/    |    \     \___|    |  \  ' 
 print '  \__/\  /  |____|              \______  /____|_  /\____|__  /\______  /____|__ \ '
 print '       \/                              \/       \/         \/        \/        \/ '
-print '
+print ''
 print 'WP-crack v1.0 2018 Recoded By Sultan Nasution'
 print 'Website: https://www.tasik9etar.me'
 print 'Mail   : sultanpierr0t.1337@gmail.com'
