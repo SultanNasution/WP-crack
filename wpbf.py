@@ -16,8 +16,8 @@ def loadLst(fileName, lstName):
     f.close()
 
 if len(sys.argv) <= 1:
-    print 'WP-crack v1.0 (c)2018 By Sultan Nasution - a very fast logon WordPress Cracker'
-    print 'Website: http://www.tasik9etar.me'
+    print 'WP-crack v1.0 2018 By Sultan Nasution'
+    print 'Website: https://www.tasik9etar.me'
     print 'Mail   : sultanpierr0t.1337@gmail.com'
     print ''
     print 'Syntax: python WP-crack [-u USER|-U FILE] [-p PASS|-P FILE] -h URL [OPT]'
@@ -33,11 +33,11 @@ if len(sys.argv) <= 1:
     print '-g user-agent - default: "Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0"'
     print '-x use proxy | ex: 127.0.0.1:1234'
     print ''
-    print 'Examples: python WP-crack.py -h http://nekopoi.com/wp-login.php -u admin -P wordlist.txt'
+    print 'Examples: python2 wpbf.py -h http://nekopoi.com/wp-login.php -u admin -P wordlist.txt'
     sys.exit()
 
-print 'WP-crack 1.0 (c)2018 By Sultan Nasution - a very fast logon WordPress Cracker'
-print 'Website: http://www.tasik9etar.me'
+print 'WP-crack 1.0 (c)2018 By Sultan Nasution'
+print 'Website: https://www.tasik9etar.me'
 print 'Mail   : sultanpierr0t.1337@gmail.com'
 
 #
