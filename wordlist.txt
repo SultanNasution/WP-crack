@@ -1,3 +1,7 @@
+password
+lupalagi
+love
+adminkota1234
 123456
 password
 12345678
@@ -77,3 +81,10 @@ adminpro
 2017
 cyber
 retel
+kominfo
+adminroot
+root
+root1234
+diskominfo
+disdikadmin1234
+adminkab
